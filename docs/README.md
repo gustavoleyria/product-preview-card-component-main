@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/gustavoleyria/product-preview-card-component-main.git
-- Live Site URL: https://gustavoleyria.github.io/interactive-card-details-form-main/
+- Live Site URL: https://gustavoleyria.github.io/product-preview-card-component-main/
 
 ## My process
 
